@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvratbajpai" alt="suvratbajpai" /></a> </p>
 
-- 🔭 I’m currently working on [Interview Whiz](https://interview-whiz.vercel.app/)
+- 🔭 I’m currently working on [Structurally Informed Convolutional Graph Neural Network - SICGNN]
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suvrat-bajpai-669973267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suvrat-bajpai-669973267/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bkxmtnrttswsx9mzzpfaovq%3d%3d" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/https://leetcode.com/insanelyBeoundU](https://leetcode.com/u/insanelyBeyondU/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/InsanleyBeyondU" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/insanelyBeyondU/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/InsanleyBeyondU" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
